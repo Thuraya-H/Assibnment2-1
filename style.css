@@ -2,15 +2,6 @@
     margin: 20px;
     padding: 0px;
    }
-  .center-box{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background-color: #190081;
-    min-height: 300px;
-    width: 950px;
-    
-  }
   .center-item{
     display: flex;
     justify-content: space-between;
