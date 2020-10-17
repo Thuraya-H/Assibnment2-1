@@ -7,8 +7,9 @@
     justify-content: space-between;
     align-items: center;
     background-color: #190081;
+    min-height: 300px;
     width: 950px;
-    margin: 0px auto;
+    
   }
   .center-item{
     display: flex;
