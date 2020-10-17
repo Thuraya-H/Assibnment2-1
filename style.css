@@ -11,9 +11,6 @@
     margin: 0px auto;
   }
   .center-item{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     color: #f9e4b6;
     min-height: 100px;
     width: 100px;
