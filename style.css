@@ -6,6 +6,9 @@
     background-color: #180080;
     min-height: 300px;
     width: 950px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
   }
   .center-item{
     background-color: #f9e4b6;
