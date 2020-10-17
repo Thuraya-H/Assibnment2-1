@@ -11,5 +11,7 @@
     background-color: #f9e4b6;
     min-height: 100px;
     width: 100px;
+    display: flex;
+    justify-content: space-between;
     align-items: center;
   }
