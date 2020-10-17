@@ -3,12 +3,12 @@
     padding: 0px;
    }
   .center-box{
-    background-color: black;
+    background-color: #180080;
     min-height: 300px;
     width: 950px;
   }
   .center-item{
-    background-color: red;
+    background-color: #f9e4b6;
     min-height: 100px;
     width: 100px;
   }
