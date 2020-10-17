@@ -3,17 +3,11 @@
     padding: 0px;
    }
   .center-box{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background-color: #190081;
+    background-color: black;
     min-height: 300px;
     width: 950px;
   }
   .center-item{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     background-color: red;
     min-height: 100px;
     width: 100px;
